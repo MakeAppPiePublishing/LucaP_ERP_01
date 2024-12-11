@@ -387,7 +387,7 @@ The code uses a width of 100. if there is a credit, it sticks a blank **Text** w
 We've covered a lot of ground in this first piece. We can list transactions using credits and debits based on the basic accounts. In the next few installments, we'll enhance this by adding more detail to the accounts with the chart of accounts, and then build a more robust journal. 
 
 # The New Code
-For those who are into the programming part of this, I'll have a download each week, and post the code discussed ready for cut and paste here at the end of the installment.  You'll find the download [here on Github]()
+For those who are into the programming part of this, I'll have a download each week, and post the code discussed ready for cut and paste here at the end of the installment.  You'll find the download [here on Github](https://github.com/MakeAppPiePublishing/LucaP_ERP_01)
 
 ## ContentView.swift
 
